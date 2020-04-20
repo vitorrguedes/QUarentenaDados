@@ -1,2 +1,3 @@
 # QuarentenaDados
-Para exercícios do curso da alura
+Para exercícios do curso da alura.
+E um ponto final.
