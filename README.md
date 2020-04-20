@@ -1,2 +1,2 @@
-# QUarentenaDados
-Para exercícios do curso da alura
+# QuarentenaDados
+Para exercícios do curso da alura.
